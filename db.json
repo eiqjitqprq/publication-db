@@ -203,5 +203,36 @@
   ],
   "profile": {
     "name": "typicode test quang"
-  }
+  },
+
+  "Writers": [
+    {
+        "Identity": "1",
+        "ContentId": "1",
+        "Name": "Vanessa Angel",
+        "Email": "vanessa@niteco.se",
+        "Status": "Active"
+    },
+    {
+        "Identity": "2",
+        "ContentId": "2",
+        "Name": "Gabrielle Anwar",
+        "Email": "gabrielle@niteco.se",
+        "Status": "Active"
+    },
+    {
+        "Identity": "3",
+        "ContentId": "3",
+        "Name": "Gemma Arterton ",
+        "Email": "gemma@niteco.se",
+        "Status": "Disable"
+    },
+    {
+        "Identity": "4",
+        "ContentId": "4",
+        "Name": "Rosalind Bennett",
+        "Email": "Rosalind@niteco.se",
+        "Status": "Active"
+    }
+  ]
 }
