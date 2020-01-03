@@ -215,7 +215,7 @@
         "isActive": false
     }
 ],
-  "delete-writer" :[
+  "deleteWriter" :[
   {
     "identity":"1",
     "result":true
