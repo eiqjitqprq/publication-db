@@ -184,7 +184,20 @@
   "profile": {
     "name": "typicode test quang"
   },
-
+  "deleteWriter" :[
+      {
+        "identity":"1",
+        "result":true
+      },
+      {
+        "identity":"2",
+        "result":false
+      },
+      {
+        "identity":"3",
+        "result":true
+      }    
+    ],
   "Writers": [
     {
         "identity": "1",
@@ -214,23 +227,5 @@
         "email": "Rosalind@niteco.se",
         "isActive": false
     }
-],
-  "deleteWriter" :[
-  {
-    "identity":"1",
-    "result":true
-  },
-  {
-    "identity":"2",
-    "result":false
-  },
-  {
-    "identity":"3",
-    "result":true
-  }
-
-
-  ]
-
-  
+  ]  
 }
