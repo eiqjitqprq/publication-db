@@ -233,13 +233,6 @@
         "Name": "Rosalind Bennett",
         "Email": "Rosalind@niteco.se",
         "Status": "Active"
-    },
-    {
-        "Identity": "5",
-        "ContentId": "5",
-        "Name": "Vanessa Angel",
-        "Email": "vanessa@niteco.se",
-        "Status": "Active"
-    },
+    }
 ]
 }
