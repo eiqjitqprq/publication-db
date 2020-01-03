@@ -179,26 +179,6 @@
         "Pyramis",
         "Extro"
       ]
-    },
-    {
-      "id": 9,
-      "guid": "50a41416-6d49-47bd-9b69-e13c854333ae",
-      "status": "Published",
-      "author": "Alta Rutledge",
-      "title": "Sit minim ullamco ut culpa ea duis id velit officia.",
-      "content": "Veniam magna sint adipisicing sint culpa do irure officia ullamco sunt et esse ullamco ex. Deserunt tempor ut adipisicing esse laboris exercitation excepteur. Sint excepteur irure nulla cupidatat deserunt mollit commodo. Enim velit culpa laborum aliquip ullamco aliqua minim aliqua labore est dolor ipsum ex. Laboris ut anim tempor sit sint reprehenderit do laboris id consequat excepteur.\r\n",
-      "tags": [
-        "Digigene",
-        "Intergeek",
-        "Kidgrease",
-        "Jumpstack",
-        "Minga",
-        "Repetwire",
-        "Teraprene",
-        "Hatology",
-        "Automon",
-        "Zillan"
-      ]
     }
   ],
   "profile": {
@@ -234,5 +214,23 @@
         "email": "Rosalind@niteco.se",
         "isActive": false
     }
-]
+],
+  "delete-writer" :[
+  {
+    "identity":"1",
+    "result":true
+  },
+  {
+    "identity":"2",
+    "result":false
+  },
+  {
+    "identity":"3",
+    "result":true
+  }
+
+
+  ]
+
+  
 }
