@@ -200,6 +200,7 @@
     ],
   "Writers": [
     {
+        "id":1,
         "identity": "1",
         "contentId": "1",
         "name": "Vanessa Angel",
@@ -207,6 +208,7 @@
         "isActive": true
     },
     {
+        "id":2,
         "identity": "2",
         "contentId": "2",
         "name": "Gabrielle Anwar",
@@ -214,6 +216,7 @@
         "isActive": false
     },
     {
+        "id":3,
         "identity": "3",
         "contentId": "3",
         "name": "Gemma Arterton ",
@@ -221,6 +224,7 @@
         "isActive": true
     },
     {
+        "id":4,
         "identity": "4",
         "contentId": "4",
         "name": "Rosalind Bennett",
