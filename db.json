@@ -207,32 +207,32 @@
 
   "Writers": [
     {
-        "Identity": "1",
-        "ContentId": "1",
-        "Name": "Vanessa Angel",
-        "Email": "vanessa@niteco.se",
-        "IsActive": true
+        "identity": "1",
+        "contentId": "1",
+        "name": "Vanessa Angel",
+        "email": "vanessa@niteco.se",
+        "isActive": true
     },
     {
-        "Identity": "2",
-        "ContentId": "2",
-        "Name": "Gabrielle Anwar",
-        "Email": "gabrielle@niteco.se",
-        "IsActive": false
+        "identity": "2",
+        "contentId": "2",
+        "name": "Gabrielle Anwar",
+        "email": "gabrielle@niteco.se",
+        "isActive": false
     },
     {
-        "Identity": "3",
-        "ContentId": "3",
-        "Name": "Gemma Arterton ",
-        "Email": "gemma@niteco.se",
-        "IsActive": true
+        "identity": "3",
+        "contentId": "3",
+        "name": "Gemma Arterton ",
+        "email": "gemma@niteco.se",
+        "isActive": true
     },
     {
-        "Identity": "4",
-        "ContentId": "4",
-        "Name": "Rosalind Bennett",
-        "Email": "Rosalind@niteco.se",
-        "IsActive": false
+        "identity": "4",
+        "contentId": "4",
+        "name": "Rosalind Bennett",
+        "email": "Rosalind@niteco.se",
+        "isActive": false
     }
 ]
 }
