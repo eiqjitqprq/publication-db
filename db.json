@@ -209,30 +209,30 @@
     {
         "Identity": "1",
         "ContentId": "1",
-        "Name": "Vanessa Angel",
+        "Name": "Vanessa Angel",
         "Email": "vanessa@niteco.se",
-        "Status": "True"
+        "IsActive": true
     },
     {
         "Identity": "2",
         "ContentId": "2",
-        "Name": "Gabrielle Anwar",
+        "Name": "Gabrielle Anwar",
         "Email": "gabrielle@niteco.se",
-        "Status": "True"
+        "IsActive": false
     },
     {
         "Identity": "3",
         "ContentId": "3",
-        "Name": "Gemma Arterton ",
+        "Name": "Gemma Arterton ",
         "Email": "gemma@niteco.se",
-        "Status": "False"
+        "IsActive": true
     },
     {
         "Identity": "4",
         "ContentId": "4",
         "Name": "Rosalind Bennett",
         "Email": "Rosalind@niteco.se",
-        "Status": "True"
+        "IsActive": false
     }
 ]
 }
